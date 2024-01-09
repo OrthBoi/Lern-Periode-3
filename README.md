@@ -10,30 +10,37 @@ Ein geignetes Projekt für diese LB wäre ein einfaches Programm das Information
 Somit lerne ich das arbeiten mit einer Datenbank und kann gleichzeitig mein bestehendes Wissen mit VIsual Studio erweitern. Ausserdem möchte ich (falls es zeitlich passt) das Programm exportieren in einer Setup.exe file damit es andere auch herunterladen können.
 
 9.1.2024
-✍️ Heute habe ich... (50-100 Wörter)
+✍️ Heute habe ich ein Grundriss meines Programmes erstellt, paar Basic Funktionen hinzugefügt wie eine Tab Bar, Titel und die Buttons. Ich habe mir überlegt wie das Programm funktionieren soll und kann nun mit der Umsetzung beginnen, ausserdem habe ich mir ein Easter Egg überlegt das ich einbauen möchte.
 
 16.1 und 23.1.2024
-[ ] Erstes Arbeitspaket
-[ ] ...
-[ ] Viertes AP
-estfall-Nummer	Ausgangslage (Given)	Eingabe (When)	Ausgabe (Then)	Erfüllt?
-1				
-...				
-4				
+- [ ] Ich möchte eine SQL Datenbank erstellen und wissen können wie ich diese mit meinem Form verbinde.
+- [ ] Ich möchte mein Form mit der Datenbank verbinden und Informationen auf dieser Speichern können
+- [ ] Ich möchte die Funktion zum Hinzufügen von Kontakten bauen
+- [ ] Ich möchte die Funktion zum Bearbeiten von Kontakten bauen
+
+| Aktion           | Eingabe | Verarbeitung | Ausgabe |
+| ------------------------ | ------- | ----------------- |---|
+| Programm in VS gestartet | -  |       | Startbildschirm |
+| Knopf "Add" gedrückt | Kontaktdaten  | Speicherung in SQL Databank | Bestätigungs MessageBox wenn Erfolgreich, sonst Fehlermeldung |
+|Knopf "Search" gedrückt | Kontaktdaten | Suche von Kontakten nach eingegebenen Kriterien| Alle gefundenen Ergebnisse|
+
+
 ✍️ Heute am 16.1 habe ich... (50-100 Wörter)
 
 ☝️ Vergessen Sie nicht, bis zum 16.1 einen ersten Code auf github hochzuladen, und in der Spalte Erfüllt? einzutragen, ob Ihr Code die Test-Fälle erfüllt
 
 23.1.2024
-[ ] Fünftes AP
-[ ] ...
+- [ ] Ich möchte die Funktion zum löschen von Kontakten bauen
+- [ ] Ich möchte ein (oder mehrere) Easter Egg einbauen
+- [ ] Ich möchte passende Sounds hinzufügen und mehr custom Settings einbauen
+- [ ] Ich möchte die Buttons und alle Prozesse aesthetisch gestalten.
 
-[ ] Achtes AP
-
-Testfall-Nummer	Ausgangslage (Given)	Eingabe (When)	Ausgabe (Then)	Erfüllt?
-5				
-...				
-8				
+| Aktion           | Eingabe | Verarbeitung | Ausgabe |
+| ------------------------ | ------- | ----------------- |---|
+|Knopf "Delete" gedrückt| - | Ausgewählter Kontaktslor wird komplett gelöscht | Bestätigungs Messagebox|
+| Druck von beliebigem Knopf | - | - | Ton Ausgabe |
+| Beim hovern über einem Button | - | - | animierter Button |
+  
 ✍️ Heute am 23.1 habe ich... (50-100 Wörter)
 
 ☝️ Vergessen Sie nicht, bis zum 23.1 Ihren fixfertigen Code auf github hochzuladen, und in der Spalte Erfüllt? einzutragen, ob Ihr Code die Test-Fälle erfüllt
