@@ -18,11 +18,11 @@ Somit lerne ich das arbeiten mit einer Datenbank und kann gleichzeitig mein best
 - [ ] Ich möchte die Funktion zum Hinzufügen von Kontakten bauen
 - [ ] Ich möchte die Funktion zum Bearbeiten von Kontakten bauen
 
-| Aktion           | Eingabe | Verarbeitung | Ausgabe |
-| ------------------------ | ------- | ----------------- |---|
-| Programm in VS gestartet | -  |       | Startbildschirm |
-| Knopf "Add" gedrückt | Kontaktdaten  | Speicherung in SQL Databank | Bestätigungs MessageBox wenn Erfolgreich, sonst Fehlermeldung |
-|Knopf "Search" gedrückt | Kontaktdaten | Suche von Kontakten nach eingegebenen Kriterien| Alle gefundenen Ergebnisse|
+| Aktion           | Eingabe | Verarbeitung | Ausgabe | Erfüllt? |
+| ------------------------ | ------- | ----------------- |---|--|
+| Programm in VS gestartet | -  |       | Startbildschirm ||
+| Knopf "Add" gedrückt | Kontaktdaten  | Speicherung in SQL Databank | Bestätigungs MessageBox wenn Erfolgreich, sonst Fehlermeldung ||
+|Knopf "Search" gedrückt | Kontaktdaten | Suche von Kontakten nach eingegebenen Kriterien| Alle gefundenen Ergebnisse||
 
 
 ✍️ Heute am 16.1 habe ich... (50-100 Wörter)
@@ -35,11 +35,11 @@ Somit lerne ich das arbeiten mit einer Datenbank und kann gleichzeitig mein best
 - [ ] Ich möchte passende Sounds hinzufügen und mehr custom Settings einbauen
 - [ ] Ich möchte die Buttons und alle Prozesse aesthetisch gestalten.
 
-| Aktion           | Eingabe | Verarbeitung | Ausgabe |
-| ------------------------ | ------- | ----------------- |---|
-|Knopf "Delete" gedrückt| - | Ausgewählter Kontaktslor wird komplett gelöscht | Bestätigungs Messagebox|
-| Druck von beliebigem Knopf | - | - | Ton Ausgabe |
-| Beim hovern über einem Button | - | - | animierter Button |
+| Aktion           | Eingabe | Verarbeitung | Ausgabe | Erfüllt? |
+| ------------------------ | ------- | ----------------- |---|--|
+|Knopf "Delete" gedrückt| - | Ausgewählter Kontaktslor wird komplett gelöscht | Bestätigungs Messagebox||
+| Druck von beliebigem Knopf | - | - | Ton Ausgabe ||
+| Beim hovern über einem Button | - | - | animierter Button ||
   
 ✍️ Heute am 23.1 habe ich... (50-100 Wörter)
 
