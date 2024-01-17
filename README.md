@@ -16,16 +16,16 @@ Somit lerne ich das arbeiten mit einer Datenbank und kann gleichzeitig mein best
 - [ ] Ich möchte eine SQL Datenbank erstellen und wissen können wie ich diese mit meinem Form verbinde.
 - [ ] Ich möchte mein Form mit der Datenbank verbinden und Informationen auf dieser Speichern können
 - [ ] Ich möchte die Funktion zum Hinzufügen von Kontakten bauen
-- [ ] Ich möchte die Funktion zum Bearbeiten von Kontakten bauen
+- [ ] Ich möchte die Funktion zum Suchen von Kontakten bauen
 
 | Aktion           | Eingabe | Verarbeitung | Ausgabe | Erfüllt? |
 | ------------------------ | ------- | ----------------- |---|--|
-| Programm in VS gestartet | -  |       | Startbildschirm ||
-| Knopf "Add" gedrückt | Kontaktdaten  | Speicherung in SQL Databank | Bestätigungs MessageBox wenn Erfolgreich, sonst Fehlermeldung ||
+| Programm in VS gestartet | -  |       | Startbildschirm |Ja|
+| Knopf "Add" gedrückt | Kontaktdaten  | Speicherung in SQL Databank | Bestätigungs MessageBox wenn Erfolgreich, sonst Fehlermeldung |Ja (Speicherung ohne Datenbank)|
 |Knopf "Search" gedrückt | Kontaktdaten | Suche von Kontakten nach eingegebenen Kriterien| Alle gefundenen Ergebnisse||
 
 
-✍️ Heute am 16.1 habe ich... (50-100 Wörter)
+✍️ Heute am 16.1 habe ich das UI fertig gestaltet. Ich habe mich mit Datenbanken beschaft und entschieden diese auszulassen, da ich mich falsch eingeschätzt habe und diese noch weit über meinem jetzigen Niveau sind. Ich habe die Funktion zum hinzufügen von Kontakten komplett fertig programmiert. Die Suchen Funktion habe ich noch nicht fertig programmiert, aber die UI habe ich bereits schon. 
 
 ☝️ Vergessen Sie nicht, bis zum 16.1 einen ersten Code auf github hochzuladen, und in der Spalte Erfüllt? einzutragen, ob Ihr Code die Test-Fälle erfüllt
 
@@ -37,7 +37,7 @@ Somit lerne ich das arbeiten mit einer Datenbank und kann gleichzeitig mein best
 
 | Aktion           | Eingabe | Verarbeitung | Ausgabe | Erfüllt? |
 | ------------------------ | ------- | ----------------- |---|--|
-|Knopf "Delete" gedrückt| - | Ausgewählter Kontaktslor wird komplett gelöscht | Bestätigungs Messagebox||
+|Knopf "Delete" gedrückt| - | Ausgewählter Kontaktslot wird komplett gelöscht | Bestätigungs Messagebox||
 | Druck von beliebigem Knopf | - | - | Ton Ausgabe ||
 | Beim hovern über einem Button | - | - | animierter Button ||
   
