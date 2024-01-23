@@ -22,7 +22,7 @@ Somit lerne ich das arbeiten mit einer Datenbank und kann gleichzeitig mein best
 | ------------------------ | ------- | ----------------- |---|--|
 | Programm in VS gestartet | -  |       | Startbildschirm |Ja|
 | Knopf "Add" gedrückt | Kontaktdaten  | Speicherung in SQL Databank | Bestätigungs MessageBox wenn Erfolgreich, sonst Fehlermeldung |Ja (Speicherung ohne Datenbank)|
-|Knopf "Search" gedrückt | Kontaktdaten | Suche von Kontakten nach eingegebenen Kriterien| Alle gefundenen Ergebnisse||
+|Knopf "Search" gedrückt | Kontaktdaten | Suche von Kontakten nach eingegebenen Kriterien| Alle gefundenen Ergebnisse|Ja (23.01)|
 
 
 ✍️ Heute am 16.1 habe ich das UI fertig gestaltet. Ich habe mich mit Datenbanken beschaft und entschieden diese auszulassen, da ich mich falsch eingeschätzt habe und diese noch weit über meinem jetzigen Niveau sind. Ich habe die Funktion zum hinzufügen von Kontakten komplett fertig programmiert. Die Suchen Funktion habe ich noch nicht fertig programmiert, aber die UI habe ich bereits schon. 
@@ -42,6 +42,8 @@ Somit lerne ich das arbeiten mit einer Datenbank und kann gleichzeitig mein best
 | Beim hovern über einem Button | - | - | animierter Button ||
   
 ✍️ Heute am 23.1 habe ich... (50-100 Wörter)
+Ich habe die Funktion zum suchen von Kontakte hinzu gefügt. Es war schwer und ich habe viel recherchiert und habe es geschaft. Ich konnte die Funktion zum Löschen noch nicht programmieren, könnte mit aber vorstellen wie ich diese mache. Für Easter Eggs gab es auch keine Zeit.
+
 
 ☝️ Vergessen Sie nicht, bis zum 23.1 Ihren fixfertigen Code auf github hochzuladen, und in der Spalte Erfüllt? einzutragen, ob Ihr Code die Test-Fälle erfüllt
 
