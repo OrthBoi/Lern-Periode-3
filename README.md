@@ -49,8 +49,11 @@ Ich habe die Funktion zum suchen von Kontakte hinzu gefügt. Es war schwer und i
 
 30.1.2024
 ✍️ Heute am 23.1 habe ich... (50-100 Wörter)
+Meinen Code sauber gestaltet, mein GitHub Profil aufgeräumt und mithilfe von GitHub Pages eine Website erstellt. Ich habe gelernt, wie ich mein Code besser schreiben kann bzw soll. 
 
 Reflexion
 Formen Sie Ihre Zusammenfassungen in Hinblick auf Ihren VBV zu einem zusammenhängenden Text von 100 bis 200 Wörtern (wieder mit Angabe in Klammern).
-
-Verfassen Sie zusätzlich einen kurzen Abschnitt, in welchem Sie über die Länge der Projekte reflektieren: Fanden Sie die 9-wöchtige LP2 oder die 4-wöchige LP3 angenehmer? Was bedeutet das für Ihre Planung der zukünftigen LP?
+Im gross und ganzen war diese Lern Periode eine Erfahrungsreiche Zeit, ich habe einiges gelernt aber auch Fehler begangen da ich mich zu hoch geschätzt habe und somit ein grosser Projekt das mehr zeit bräuchte nicht zum vollen Potenzial gestalten können. Ausserdem hat mir das selbstständige arbeiten gefallen da ich meine Tagesroutine bestimmen konnte. 
+Wie bereits angesprochen habe ich mich in dieser kurzen Lern Periode überschätzt, und hätte ein kleineres Projekt nehmen sollen welches ich besser erfüllen könnte.
+Ich habe jedoch das verlangen, an einen grösseren Project zu arbeiten und mein Wissen somit zu vertiefen und auszuweitern, somit würde ich sagen das mir persönlich längere Lern Perioden besser gefallen.
+Man hat nicht nur mehr Zeit für grössere Projekte, sondern auch weniger Zeitdruck und kann sich besser konzentrieren.
